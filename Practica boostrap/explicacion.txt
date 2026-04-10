@@ -1,0 +1,43 @@
+Justificación de decisiones de diseño - Kylian Mbappé
+
+1. Elección del tema:
+   - Kylian Mbappé es una figura global del deporte con gran popularidad, lo que demuestra en su dia a dia es lo que me ha animado a hacer una pagina web para el.
+   - Su carrera ofrece múltiples aspectos a destacar: logros deportivos, récords, y su impacto cultural.
+
+2. Estructura y diseño:
+   - Navbar fija para fácil navegación en todas las páginas.
+   - Hero section impactante con imagen de fondo y CTA claro.
+   - Secciones bien diferenciadas con espacios adecuados.
+
+3. Página principal:
+   - Biografía estructurada en dos columnas (texto/imagen) para mejor legibilidad.
+   - Sección de logros con cards que resaltan estadísticas importantes.
+   - Galería de imágenes para mostrar aspectos clave de su carrera.
+   - Llamada a la acción clara hacia la tienda.
+
+4. Página de formulario:
+   - Diseño organizado en pasos lógicos: productos, envío, pago.
+   - Cards para productos con opciones de personalización (tallas, cantidades).
+   - Validación de formulario integrada.
+   - Mostrar/ocultar campos de pago según método seleccionado.
+   - Diseño responsive que funciona en todos los dispositivos.
+
+5. Componentes de Bootstrap utilizados:
+   - Sistema de grid para estructura responsive.
+   - Navbar, cards, forms, buttons, alerts y utilidades varias.
+   - Componentes interactivos como dropdowns y radios.
+   - Iconos de Bootstrap Icons para mejor experiencia visual.
+
+6. Personalizaciones:
+   - Efectos hover en cards para mejor interactividad.
+   - Colores temáticos basados en la bandera francesa.
+   - Validación personalizada de formulario.
+   - Smooth scrolling para navegación interna.
+
+7. Consideraciones técnicas:
+   - Uso de Bootstrap 5.3.5 exclusivamente mediante CDN.
+   - Estructura de archivos limpia y organizada.
+   - Diseño 100% responsive.
+   - Código semántico y accesible.
+
+El diseño busca reflejar la energía y dinamismo de Mbappé, con un enfoque moderno y profesional que cumple con todos los requisitos de la práctica.
