@@ -116,5 +116,6 @@ No se utiliza JavaScript personalizado. Bootstrap JS se carga desde CDN únicame
 
 ## ✍️ Autor
 
+Adrián Álvarez Bombín
 Práctica de Bootstrap — 2025  
 Página de fans no oficial de Kylian Mbappé.
